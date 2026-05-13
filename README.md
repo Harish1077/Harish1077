@@ -1,4 +1,4 @@
-<h1 align="center">Harish</h1>
+<h1 align="center">Harish Ragavendra</h1>
 <h3 align="center">B.Tech CSE Student | Cloud Computing Enthusiast | Aspiring Cloud Engineer</h3>
 
 <p align="center">
